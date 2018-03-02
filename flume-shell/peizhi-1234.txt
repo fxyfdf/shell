@@ -1,0 +1,42 @@
+
+#!/bin/sh
+read -p "please input your log_path  " log_path
+read -p "please input your log_name  " log_name
+read -p "please input your hdfs_path  " hdfs_path
+read -p "please input your hdfs_path2  " hdfs_path2
+read -p "please input your hdfs_path3  " hdfs_path3
+read -p "please input your hdfs_path4  " hdfs_path4
+
+# log_name1
+sed -i "8c a1.sources.r1.command  = tail -n0 -F $log_path" default.conf 
+sed -i "24c a1.sinks.k1.hdfs.path = $hdfs_path/dt=%Y%m%d" default.conf
+sed -i "25c a1.sinks.k1.hdfs.filePrefix = ${log_name}_%Y%m%d%H%M" default.conf
+sed -i "15c a1.channels.c1.checkpointDir = /data/flume/checkpoint/${log_name}" default.conf
+sed -i "16c a1.channels.c1.dataDirs = /data/flume/data/${log_name}" default.conf
+\cp default.conf ${log_name}.conf
+
+# log_name2
+sed -i "8c a1.sources.r1.command  = tail -n0 -F $log_path" default.conf 
+sed -i "24c a1.sinks.k1.hdfs.path = ${hdfs_path2}/dt=%Y%m%d" default.conf
+sed -i "25c a1.sinks.k1.hdfs.filePrefix = ${log_name}2_%Y%m%d%H%M" default.conf
+sed -i "15c a1.channels.c1.checkpointDir = /data/flume/checkpoint/${log_name}2" default.conf
+sed -i "16c a1.channels.c1.dataDirs = /data/flume/data/${log_name}2" default.conf
+\cp default.conf ${log_name}2.conf
+
+# log_name3
+sed -i "8c a1.sources.r1.command  = tail -n0 -F $log_path" default.conf 
+sed -i "24c a1.sinks.k1.hdfs.path = ${hdfs_path3}/dt=%Y%m%d" default.conf
+sed -i "25c a1.sinks.k1.hdfs.filePrefix = ${log_name}3_%Y%m%d%H%M" default.conf
+sed -i "15c a1.channels.c1.checkpointDir = /data/flume/checkpoint/${log_name}3" default.conf
+sed -i "16c a1.channels.c1.dataDirs = /data/flume/data/${log_name}3" default.conf
+
+\cp default.conf ${log_name}3.conf
+
+# log_name4
+sed -i "8c a1.sources.r1.command  = tail -n0 -F $log_path" default.conf 
+sed -i "24c a1.sinks.k1.hdfs.path = ${hdfs_path4}/dt=%Y%m%d" default.conf
+sed -i "25c a1.sinks.k1.hdfs.filePrefix = ${log_name}4_%Y%m%d%H%M" default.conf
+sed -i "15c a1.channels.c1.checkpointDir = /data/flume/checkpoint/${log_name}4" default.conf
+sed -i "16c a1.channels.c1.dataDirs = /data/flume/data/${log_name}4" default.conf
+ 
+\cp default.conf ${log_name}4.conf

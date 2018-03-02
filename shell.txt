@@ -1,0 +1,13 @@
+常用基本规则：
+1.for循环
+例1：  用于过滤文件中的内容，查找在那个文件中
+for i in `ls *.sh`
+do
+echo $i
+echo `cat $i| grep aaa`
+done
+
+例2：ssh : 经典远程切换用户执行命令
+ssh -p59522 -tt 10.9.85.230 "su - hadoop -c '/opt/dftthadoop/bin/hadoop fs -put /data/h5adxsyslogs/adxerror/adxerror.log.2018-03-01.log /user/hive/warehouse/adverdb.db/log_adx_adver_adxerror/dt=20180301/adxerror.log.2018-03-01.log.10.9.85.230'"&
+
+
