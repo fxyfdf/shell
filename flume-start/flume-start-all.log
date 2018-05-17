@@ -1,0 +1,89 @@
+Last login: Thu Apr 26 17:45:17 2018 from 10.10.50.118
+	for log_name in `cd /opt/elk/flume-1.7.0/conf;ls *.conf |grep -v default`
+	do 
+		log_name1=${log_name}
+		echo $log_name1
+		flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+		if [ -n "${flume_log_pid}" ];then
+			 kill -15 ${flume_log_pid}
+		fi
+		echo $flume_log_pid
+		echo 10.9.59.67
+	done
+	echo 11
+	exit
+]0;root@10-9-59-67:~[?1034h[root@10-9-59-67 ~]# for log_name in `cd /opt/elk/flume-1.7.0/conf;ls *.conf |gr ep -v default`
+> do 
+> 
+.bash_history      .cshrc             .pki/              .viminfo
+.bash_logout       .gnupg/            .ssh/              
+.bash_profile      init.sh            .subversion/       
+.bashrc            .oracle_jre_usage/ .tcshrc            
+> log_name1=${log_name}
+> 
+.bash_history      .cshrc             .pki/              .viminfo
+.bash_logout       .gnupg/            .ssh/              
+.bash_profile      init.sh            .subversion/       
+.bashrc            .oracle_jre_usage/ .tcshrc            
+> echo $log_name1
+> 
+.bash_history      .cshrc             .pki/              .viminfo
+.bash_logout       .gnupg/            .ssh/              
+.bash_profile      init.sh            .subversion/       
+.bashrc            .oracle_jre_usage/ .tcshrc            
+> flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk  -F' ' '{print \$2}'`
+> 
+.bash_history      .cshrc             .pki/              .viminfo
+.bash_logout       .gnupg/            .ssh/              
+.bash_profile      init.sh            .subversion/       
+.bashrc            .oracle_jre_usage/ .tcshrc            
+> if [ -n "${flume_log_pid}" ];then
+> 
+.bash_history      .cshrc             .pki/              .viminfo
+.bash_logout       .gnupg/            .ssh/              
+.bash_profile      init.sh            .subversion/       
+.bashrc            .oracle_jre_usage/ .tcshrc            
+> 
+.bash_history      .cshrc             .pki/              .viminfo
+.bash_logout       .gnupg/            .ssh/              
+.bash_profile      init.sh            .subversion/       
+.bashrc            .oracle_jre_usage/ .tcshrc            
+>  kill -15 ${flume_log_pid}
+> 
+.bash_history      .cshrc             .pki/              .viminfo
+.bash_logout       .gnupg/            .ssh/              
+.bash_profile      init.sh            .subversion/       
+.bashrc            .oracle_jre_usage/ .tcshrc            
+> fi
+> 
+.bash_history      .cshrc             .pki/              .viminfo
+.bash_logout       .gnupg/            .ssh/              
+.bash_profile      init.sh            .subversion/       
+.bashrc            .oracle_jre_usage/ .tcshrc            
+> echo $flume_log_pid
+> 
+.bash_history      .cshrc             .pki/              .viminfo
+.bash_logout       .gnupg/            .ssh/              
+.bash_profile      init.sh            .subversion/       
+.bashrc            .oracle_jre_usage/ .tcshrc            
+> echo 10.9.59.67
+> done
+12times_awards.conf
+13429
+10.9.59.67
+gy_login_dc.conf
+13491
+10.9.59.67
+login_guc.conf
+13585
+10.9.59.67
+seventimes_awards.conf
+13683
+10.9.59.67
+task_add_bonus_performance.conf
+13782
+10.9.59.67
+]0;root@10-9-59-67:~[root@10-9-59-67 ~]# echo 11
+11
+]0;root@10-9-59-67:~[root@10-9-59-67 ~]# exit
+logout

@@ -1,0 +1,36 @@
+
+第一组12
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_miniwap_h5_dsp_click
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_minipc_dsp_click
+第二组24
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adver_dsp_extendadvshow
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_minipc_dsp_show_server
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_pc_client_request_show
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_h5_client_request_show_detail
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_h5_client_request_show_list
+
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adx_adver_request
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adx_adver_response
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adx_adver_adxerror
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adver_filtration
+第三组40
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adver_adunion_par_request
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adver_adunion_return
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adver_union_par_request
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adver_union_request
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adver_union_return
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_adver_union_report
+第四组6台
+ /user/hive/warehouse/minieastdaywap.db/log_adver_show
+ /user/hive/warehouse/minieastdaywap.db/log_adver_click
+第四组9台
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_app_bdshow
+hdfs://5nxpdxcluster/user/hive/warehouse/adverdb.db/log_app_bdclick
+
+/user/hive/warehouse/minieastdaywap.db/log_miniwap_active_realtime_source
+/user/hive/warehouse/ynetdw.db/log_yneth5_active
+/user/hive/warehouse/sdkdb.db/log_toutiao_sdk_active
+/user/hive/warehouse/minieastdaywap.db/log_video_act_source
+/user/hive/warehouse/videodw.db/log_video_operation
+/user/hive/warehouse/minieastdaywap.db/log_douyin_app_video_active
+/user/hive/warehouse/videodw.db/log_miniwap_video_active

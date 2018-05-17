@@ -1,0 +1,4 @@
+pageshow
+listpgvideolog
+detailpgvideolog
+morenews_pageshow

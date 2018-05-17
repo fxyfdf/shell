@@ -1,0 +1,20 @@
+log_toutiao_sdk_active
+570.3 M  /user/hive/warehouse/sdkdb.db/log_toutiao_sdk_active/dt=20180507
+log_toutiao_sdk_click
+30.6 M  /user/hive/warehouse/sdkdb.db/log_toutiao_sdk_click/dt=20180507
+log_toutiao_sdk_detailpage_show
+37.9 M  /user/hive/warehouse/sdkdb.db/log_toutiao_sdk_detailpage_show/dt=20180507
+log_toutiao_sdk_listpage_show
+8.1 G  /user/hive/warehouse/sdkdb.db/log_toutiao_sdk_listpage_show/dt=20180507
+log_toutiao_sdk_online
+82.0 M  /user/hive/warehouse/sdkdb.db/log_toutiao_sdk_online/dt=20180507
+log_toutiao_sdk_pic_detailpage_show
+579.2 K  /user/hive/warehouse/sdkdb.db/log_toutiao_sdk_pic_detailpage_show/dt=20180507
+log_toutiao_sdk_pic_listpage_show
+19.5 M  /user/hive/warehouse/sdkdb.db/log_toutiao_sdk_pic_listpage_show/dt=20180507
+log_toutiao_sdk_video_active
+1.6 M  /user/hive/warehouse/sdkdb.db/log_toutiao_sdk_video_active/dt=20180507
+log_toutiao_sdk_video_detailpage_show
+1.9 M  /user/hive/warehouse/sdkdb.db/log_toutiao_sdk_video_detailpage_show/dt=20180507
+log_toutiao_sdk_video_listpage_show
+16.7 M  /user/hive/warehouse/sdkdb.db/log_toutiao_sdk_video_listpage_show/dt=20180507

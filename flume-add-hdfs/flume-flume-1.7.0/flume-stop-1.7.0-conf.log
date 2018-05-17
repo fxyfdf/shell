@@ -1,0 +1,338 @@
+----------1------10.9.197.176-------------
+sdkadvclicklog.conf
+> 
+1824
+sdkadvshowlog.conf
+> 
+1854
+btimethirdadreq.conf
+> 
+1565
+cooperateclick.conf
+> 
+1572
+cooperateshow.conf
+> 
+1580
+pgmonitor.conf
+> 
+1806
+----------2------10.9.81.40-------------
+sdkadvclicklog.conf
+> 
+1883
+sdkadvshowlog.conf
+> 
+1892
+btimethirdadreq.conf
+> 
+1557
+cooperateclick.conf
+> 
+1579
+cooperateshow.conf
+> 
+1591
+pgmonitor.conf
+> 
+1872
+----------3------10.9.89.207-------------
+sdkadvclicklog.conf
+> 
+1876
+sdkadvshowlog.conf
+> 
+1888
+btimethirdadreq.conf
+> 
+1530
+e_log_pid
+cooperateclick.conf
+> 
+1550
+cooperateshow.conf
+> 
+1565
+pgmonitor.conf
+> 
+1864
+----------4------10.9.149.210-------------
+sdkadvclicklog.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1790
+sdkadvshowlog.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1839
+btimethirdadreq.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1480
+cooperateclick.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1483
+cooperateshow.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1486
+pgmonitor.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1750
+----------5------10.9.191.207-------------
+sdkadvclicklog.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1927
+sdkadvshowlog.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1971
+og_pid}
+btimethirdadreq.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1627
+cooperateclick.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1650
+cooperateshow.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1664
+pgmonitor.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1900
+----------6------10.9.86.72-------------
+sdkadvclicklog.conf
+> 
+1808
+sdkadvshowlog.conf
+> 
+1837
+btimethirdadreq.conf
+> 
+1550
+cooperateclick.conf
+> 
+1558
+cooperateshow.conf
+> 
+1573
+pgmonitor.conf
+> 
+1796
+----------7------10.9.161.224-------------
+sdkadvclicklog.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .pki/                
+1869
+sdkadvshowlog.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .pki/                
+1903
+btimethirdadreq.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .pki/                
+1566
+cooperateclick.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .pki/                
+1569
+cooperateshow.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .pki/                
+1589
+pgmonitor.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .pki/                
+1830
+----------8------10.9.199.140-------------
+sdkadvclicklog.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1586
+sdkadvshowlog.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1617
+btimethirdadreq.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1401
+cooperateclick.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1403
+cooperateshow.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1405
+pgmonitor.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1561
+----------9------10.9.91.74-------------
+sdkadvclicklog.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1673
+sdkadvshowlog.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1680
+btimethirdadreq.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1522
+cooperateclick.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1525
+cooperateshow.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1545
+pgmonitor.conf
+> 
+anaconda-ks.cfg      .cshrc               .ssh/
+.ansible/            .gnupg/              .tcshrc
+.bash_history        init.sh              .viminfo
+1666
+----------10------10.9.127.13-------------
+sdkadvclicklog.conf
+> 
+1829
+sdkadvshowlog.conf
+> 
+1847
+btimethirdadreq.conf
+> 
+1560
+cooperateclick.conf
+> 
+1580
+cooperateshow.conf
+> 
+1605
+pgmonitor.conf
+> 
+1820
+----------11------10.9.183.167-------------
+sdkadvclicklog.conf
+> 
+1788
+sdkadvshowlog.conf
+> 
+1844
+btimethirdadreq.conf
+> 
+1537
+cooperateclick.conf
+> 
+1552
+cooperateshow.conf
+> 
+1570
+pgmonitor.conf
+> 
+1759
+----------12------10.9.190.14-------------
+sdkadvclicklog.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1903
+sdkadvshowlog.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1945
+btimethirdadreq.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1624
+cooperateclick.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1643
+cooperateshow.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1663
+pgmonitor.conf
+> 
+.ansible/            .gnupg/              .ssh/
+.bash_history        init.sh              .tcshrc
+.bashrc              .java/               
+1872

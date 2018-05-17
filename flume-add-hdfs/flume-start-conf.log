@@ -1,0 +1,48 @@
+----------i+1------10.9.101.143-------------
+Last login: Fri Apr 27 17:46:20 2018 from 10.10.50.118
+        log_name=adxrequest5.conf
+        echo $log_name
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        if [ -z "${flume_log_pid}" ];then
+            su - hadoop -c " cd /oopt/elk/flume-1.7.0-5nxpdx && ./start.sh ${log_name}" >/dev/null 2>&1
+        fi
+        echo $flume_log_pid
+    done
+    exit
+]0;root@10-9-101-143:~[?1034h[root@10-9-101-143 ~]#         log_name=adxrequest5.conf
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#         echo $log_name
+adxrequest5.conf
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${lo g_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#         if [ -z "${flume_log_pid}" ];then
+>             su - hadoop -c " cd /oopt/elk/flume-1.7.0-5nxpdx && ./start.sh ${l og_name}" >/dev/null 2>&1
+>         fi
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#         echo $flume_log_pid
+
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#     done
+-bash: syntax error near unexpected token `done'
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#     exit
+logout
+----------i+1------10.9.101.143-------------
+Last login: Fri Apr 27 17:47:34 2018 from 10.10.50.118
+        log_name="adxrequest5.conf"
+        echo $log_name
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        if [ -z "${flume_log_pid}" ];then
+            su - hadoop -c " cd /oopt/elk/flume-1.7.0-5nxpdx && ./start.sh ${log_name}" >/dev/null 2>&1
+        fi
+        echo $flume_log_pid
+    done
+    exit
+]0;root@10-9-101-143:~[?1034h[root@10-9-101-143 ~]#         log_name="adxrequest5.conf"
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#         echo $log_name
+adxrequest5.conf
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${lo g_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#         if [ -z "${flume_log_pid}" ];then
+>             su - hadoop -c " cd /oopt/elk/flume-1.7.0-5nxpdx && ./start.sh ${l og_name}" >/dev/null 2>&1
+>         fi
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#         echo $flume_log_pid
+
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#     done
+-bash: syntax error near unexpected token `done'
+]0;root@10-9-101-143:~[root@10-9-101-143 ~]#     exit
+logout

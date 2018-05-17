@@ -1,0 +1,8 @@
+/user/hive/warehouse/usercenter.db/log_answer_connect
+/user/hive/warehouse/usercenter.db/log_answer_matchuser
+/user/hive/warehouse/usercenter.db/log_answer_matchsystem
+/user/hive/warehouse/usercenter.db/log_answer_roomenter
+/user/hive/warehouse/usercenter.db/log_answer_push_question
+/user/hive/warehouse/usercenter.db/log_answer_answering
+/user/hive/warehouse/usercenter.db/log_answer_roomend
+/user/hive/warehouse/usercenter.db/log_answer_matchsuccess

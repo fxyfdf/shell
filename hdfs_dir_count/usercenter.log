@@ -1,0 +1,70 @@
+log_12times_awards
+1.3 M  /user/hive/warehouse/usercenter.db/log_12times_awards/dt=20180507
+log_accountcharge_add_bonus
+12.4 G  /user/hive/warehouse/usercenter.db/log_accountcharge_add_bonus/dt=20180507
+log_answer_answering
+971.4 M  /user/hive/warehouse/usercenter.db/log_answer_answering/dt=20180507
+log_answer_connect
+296.7 M  /user/hive/warehouse/usercenter.db/log_answer_connect/dt=20180507
+log_answer_matchsuccess
+222.5 M  /user/hive/warehouse/usercenter.db/log_answer_matchsuccess/dt=20180507
+log_answer_matchsystem
+198.9 M  /user/hive/warehouse/usercenter.db/log_answer_matchsystem/dt=20180507
+log_answer_matchuser
+208.3 M  /user/hive/warehouse/usercenter.db/log_answer_matchuser/dt=20180507
+log_answer_push_question
+233.3 M  /user/hive/warehouse/usercenter.db/log_answer_push_question/dt=20180507
+log_answer_question
+1022.9 M  /user/hive/warehouse/usercenter.db/log_answer_question/dt=20180507
+log_answer_roomend
+95.9 M  /user/hive/warehouse/usercenter.db/log_answer_roomend/dt=20180507
+log_answer_roomenter
+218.8 M  /user/hive/warehouse/usercenter.db/log_answer_roomenter/dt=20180507
+log_app_accid_get_moneytree_bonus
+0  /user/hive/warehouse/usercenter.db/log_app_accid_get_moneytree_bonus/dt=20180507
+log_app_accid_getbonus
+480.8 M  /user/hive/warehouse/usercenter.db/log_app_accid_getbonus/dt=20180507
+log_app_accid_getmoney
+116.6 M  /user/hive/warehouse/usercenter.db/log_app_accid_getmoney/dt=20180507
+log_app_accid_spendmoney
+3.4 M  /user/hive/warehouse/usercenter.db/log_app_accid_spendmoney/dt=20180507
+log_app_login
+580.7 M  /user/hive/warehouse/usercenter.db/log_app_login/dt=20180507
+log_appstatistics_actshare
+546.5 M  /user/hive/warehouse/usercenter.db/log_appstatistics_actshare/dt=20180507
+log_appstatistics_appact
+154.5 G  /user/hive/warehouse/usercenter.db/log_appstatistics_appact/dt=20180507
+log_invite_awards
+11.1 M  /user/hive/warehouse/usercenter.db/log_invite_awards/dt=20180507
+log_login_from
+20.3 M  /user/hive/warehouse/usercenter.db/log_login_from/dt=20180507
+log_otheruser_otherlogin_dftt
+0  /user/hive/warehouse/usercenter.db/log_otheruser_otherlogin_dftt/dt=20180507
+log_otheruser_otherlogin_ttkb
+0  /user/hive/warehouse/usercenter.db/log_otheruser_otherlogin_ttkb/dt=20180507
+log_pc_login
+0  /user/hive/warehouse/usercenter.db/log_pc_login/dt=20180507
+log_user_login
+0  /user/hive/warehouse/usercenter.db/log_user_login/dt=20180507
+log_user_login_new
+96.0 K  /user/hive/warehouse/usercenter.db/log_user_login_new/dt=20180507
+log_user_login_ttbrws
+0  /user/hive/warehouse/usercenter.db/log_user_login_ttbrws/dt=20180507
+log_user_login_ttkb
+0  /user/hive/warehouse/usercenter.db/log_user_login_ttkb/dt=20180507
+log_user_register
+2.6 K  /user/hive/warehouse/usercenter.db/log_user_register/dt=20180507
+log_user_register_ttbrws
+295  /user/hive/warehouse/usercenter.db/log_user_register_ttbrws/dt=20180507
+log_user_register_ttkb
+0  /user/hive/warehouse/usercenter.db/log_user_register_ttkb/dt=20180507
+log_user_zhibo_matchuser
+0  /user/hive/warehouse/usercenter.db/log_user_zhibo_matchuser/dt=20180507
+log_user_zhibo_question
+0  /user/hive/warehouse/usercenter.db/log_user_zhibo_question/dt=20180507
+log_user_zhibo_roomend
+0  /user/hive/warehouse/usercenter.db/log_user_zhibo_roomend/dt=20180507
+log_user_zhibo_roomenter
+0  /user/hive/warehouse/usercenter.db/log_user_zhibo_roomenter/dt=20180507
+log_wechat_groupid_unionid
+0  /user/hive/warehouse/usercenter.db/log_wechat_groupid_unionid/dt=20180507

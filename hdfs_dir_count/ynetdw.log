@@ -1,0 +1,8 @@
+log_yneth5_active
+1.4 G  /user/hive/warehouse/ynetdw.db/log_yneth5_active/dt=20180507
+log_yneth5_online
+37.5 M  /user/hive/warehouse/ynetdw.db/log_yneth5_online/dt=20180507
+log_ynetpc_active
+0  /user/hive/warehouse/ynetdw.db/log_ynetpc_active/dt=20180507
+log_ynetpc_online
+0  /user/hive/warehouse/ynetdw.db/log_ynetpc_online/dt=20180507

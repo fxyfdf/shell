@@ -1,0 +1,64 @@
+log_createhtml_eastdaysport
+log_dfsport_app_click
+23.0 M  /user/hive/warehouse/sportsdb.db/log_dfsport_app_click/dt=20180507
+log_dfsport_app_detail_show
+522.7 K  /user/hive/warehouse/sportsdb.db/log_dfsport_app_detail_show/dt=20180507
+log_dfsport_app_list_show
+137.3 M  /user/hive/warehouse/sportsdb.db/log_dfsport_app_list_show/dt=20180507
+log_dfsport_appstatistics_install
+274.3 K  /user/hive/warehouse/sportsdb.db/log_dfsport_appstatistics_install/dt=20180507
+log_dfsport_appstatistics_online
+3.8 M  /user/hive/warehouse/sportsdb.db/log_dfsport_appstatistics_online/dt=20180507
+log_dfsports_dingyue
+138.7 K  /user/hive/warehouse/sportsdb.db/log_dfsports_dingyue/dt=20180507
+log_miniwap_dfsports
+55.4 K  /user/hive/warehouse/sportsdb.db/log_miniwap_dfsports/dt=20180507
+log_miniwap_dfsports_detailpageshow_h5
+925.5 M  /user/hive/warehouse/sportsdb.db/log_miniwap_dfsports_detailpageshow_h5/dt=20180507
+log_miniwap_dfsports_pageshow
+137.3 M  /user/hive/warehouse/sportsdb.db/log_miniwap_dfsports_pageshow/dt=20180507
+log_miniwap_dfsports_pageshow_h5
+110.0 M  /user/hive/warehouse/sportsdb.db/log_miniwap_dfsports_pageshow_h5/dt=20180507
+log_miniwap_dfsports_tmp
+0  /user/hive/warehouse/sportsdb.db/log_miniwap_dfsports_tmp/dt=20180507
+log_sport_video_act
+2.2 M  /user/hive/warehouse/sportsdb.db/log_sport_video_act/dt=20180507
+log_sports_active
+1.2 G  /user/hive/warehouse/sportsdb.db/log_sports_active/dt=20180507
+log_sports_active_app_normal
+7.1 M  /user/hive/warehouse/sportsdb.db/log_sports_active_app_normal/dt=20180507
+log_sports_active_h5
+419.6 M  /user/hive/warehouse/sportsdb.db/log_sports_active_h5/dt=20180507
+log_sports_active_h5_nomal
+356.2 M  /user/hive/warehouse/sportsdb.db/log_sports_active_h5_nomal/dt=20180507
+log_sports_active_h5_source
+log_sports_active_normal
+1.2 G  /user/hive/warehouse/sportsdb.db/log_sports_active_normal/dt=20180507
+log_sports_createhtml
+25.5 M  /user/hive/warehouse/sportsdb.db/log_sports_createhtml/dt=20180507
+log_sports_onclick_h5
+37.9 M  /user/hive/warehouse/sportsdb.db/log_sports_onclick_h5/dt=20180507
+log_sports_online
+845.5 K  /user/hive/warehouse/sportsdb.db/log_sports_online/dt=20180507
+log_sports_online_h5
+934.6 M  /user/hive/warehouse/sportsdb.db/log_sports_online_h5/dt=20180507
+log_sports_uploadhtml
+1.9 M  /user/hive/warehouse/sportsdb.db/log_sports_uploadhtml/dt=20180507
+log_wxsport_createhtml
+16.1 M  /user/hive/warehouse/sportsdb.db/log_wxsport_createhtml/dt=20180507
+log_wxsport_h5_active
+27.2 M  /user/hive/warehouse/sportsdb.db/log_wxsport_h5_active/dt=20180507
+log_wxsport_h5_click
+20.4 M  /user/hive/warehouse/sportsdb.db/log_wxsport_h5_click/dt=20180507
+log_wxsport_h5_detailpage_show
+128.9 M  /user/hive/warehouse/sportsdb.db/log_wxsport_h5_detailpage_show/dt=20180507
+log_wxsport_h5_listpage_show
+40.0 M  /user/hive/warehouse/sportsdb.db/log_wxsport_h5_listpage_show/dt=20180507
+log_wxsport_h5_online
+47.2 M  /user/hive/warehouse/sportsdb.db/log_wxsport_h5_online/dt=20180507
+log_wxsport_uploadhtml
+1.0 M  /user/hive/warehouse/sportsdb.db/log_wxsport_uploadhtml/dt=20180507
+log_wxsports_pc_active
+8.5 M  /user/hive/warehouse/sportsdb.db/log_wxsports_pc_active/dt=20180507
+log_wxsports_pc_online
+254.2 M  /user/hive/warehouse/sportsdb.db/log_wxsports_pc_online/dt=20180507

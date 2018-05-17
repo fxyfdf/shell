@@ -1,0 +1,292 @@
+----------1------10.9.17.152-------------
+getadvs5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+7852
+repostadvs5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+8050
+apprequest5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+7718
+advresp5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+7004
+adxrequest5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+7359
+adxresponse5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+7540
+adxerror5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+7152
+----------2------10.9.17.215-------------
+getadvs5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+17257
+repostadvs5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+17454
+apprequest5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+17094
+advresp5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+16429
+adxrequest5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+16777
+adxresponse5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+16953
+adxerror5.conf
+> 
+.bash_history  .bashrc        init.sh        .ssh/          
+16582
+----------3------10.9.18.12-------------
+getadvs5.conf
+> 
+.bash_history  .bashrc        init.sh        .tcshrc        
+29274
+repostadvs5.conf
+> 
+.bash_history  .bashrc        init.sh        .tcshrc        
+29494
+apprequest5.conf
+> 
+.bash_history  .bashrc        init.sh        .tcshrc        
+29081
+advresp5.conf
+> 
+.bash_history  .bashrc        init.sh        .tcshrc        
+28393
+adxrequest5.conf
+> 
+.bash_history  .bashrc        init.sh        .tcshrc        
+28770
+adxresponse5.conf
+> 
+.bash_history  .bashrc        init.sh        .tcshrc        
+28908
+adxerror5.conf
+> 
+.bash_history  .bashrc        init.sh        .tcshrc        
+28552
+----------1------10.9.17.152-------------
+Last login: Thu May  3 14:56:27 2018 from 10.10.50.118
+        log_name=getadvs5.conf
+        echo $log_name
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        if [ -n "${flume_log_pid}" ];then
+		kill -15 ${flume_log_pid}
+        fi
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        echo $flume_log_pid
+    done
+    exit
+]0;root@10-9-17-152:~[?1034h[root@10-9-17-152 ~]#         log_name=getadvs5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $log_name
+getadvs5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         if [ -n "${flume_log_pid}" ];then
+> 
+.ansible/      .bash_profile  dellog.sh      .pki/          .viminfo
+.bash_history  .bashrc        init.sh        .ssh/          
+.bash_logout   .cshrc         .lesshst       .tcshrc        
+> kill -15 ${flume_log_pid}
+>         fi
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $flume_log_pid
+
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     done
+-bash: syntax error near unexpected token `done'
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     exit
+logout
+Last login: Thu May  3 14:56:34 2018 from 10.10.50.118
+        log_name=repostadvs5.conf
+        echo $log_name
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        if [ -n "${flume_log_pid}" ];then
+		kill -15 ${flume_log_pid}
+        fi
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        echo $flume_log_pid
+    done
+    exit
+]0;root@10-9-17-152:~[?1034h[root@10-9-17-152 ~]#         log_name=repostadvs5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $log_name
+repostadvs5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         if [ -n "${flume_log_pid}" ];then
+> 
+.ansible/      .bash_profile  dellog.sh      .pki/          .viminfo
+.bash_history  .bashrc        init.sh        .ssh/          
+.bash_logout   .cshrc         .lesshst       .tcshrc        
+> kill -15 ${flume_log_pid}
+>         fi
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $flume_log_pid
+
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     done
+-bash: syntax error near unexpected token `done'
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     exit
+logout
+Last login: Thu May  3 14:56:34 2018 from 10.10.50.118
+        log_name=apprequest5.conf
+        echo $log_name
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        if [ -n "${flume_log_pid}" ];then
+		kill -15 ${flume_log_pid}
+        fi
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        echo $flume_log_pid
+    done
+    exit
+]0;root@10-9-17-152:~[?1034h[root@10-9-17-152 ~]#         log_name=apprequest5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $log_name
+apprequest5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         if [ -n "${flume_log_pid}" ];then
+> 
+.ansible/      .bash_profile  dellog.sh      .pki/          .viminfo
+.bash_history  .bashrc        init.sh        .ssh/          
+.bash_logout   .cshrc         .lesshst       .tcshrc        
+> kill -15 ${flume_log_pid}
+>         fi
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $flume_log_pid
+
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     done
+-bash: syntax error near unexpected token `done'
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     exit
+logout
+Last login: Thu May  3 14:56:34 2018 from 10.10.50.118
+        log_name=advresp5.conf
+        echo $log_name
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        if [ -n "${flume_log_pid}" ];then
+		kill -15 ${flume_log_pid}
+        fi
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        echo $flume_log_pid
+    done
+    exit
+]0;root@10-9-17-152:~[?1034h[root@10-9-17-152 ~]#         log_name=advresp5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $log_name
+advresp5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         if [ -n "${flume_log_pid}" ];then
+> 
+.ansible/      .bash_profile  dellog.sh      .pki/          .viminfo
+.bash_history  .bashrc        init.sh        .ssh/          
+.bash_logout   .cshrc         .lesshst       .tcshrc        
+> kill -15 ${flume_log_pid}
+>         fi
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $flume_log_pid
+
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     done
+-bash: syntax error near unexpected token `done'
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     exit
+logout
+Last login: Thu May  3 14:56:35 2018 from 10.10.50.118
+        log_name=adxrequest5.conf
+        echo $log_name
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        if [ -n "${flume_log_pid}" ];then
+		kill -15 ${flume_log_pid}
+        fi
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        echo $flume_log_pid
+    done
+    exit
+]0;root@10-9-17-152:~[?1034h[root@10-9-17-152 ~]#         log_name=adxrequest5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $log_name
+adxrequest5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         if [ -n "${flume_log_pid}" ];then
+> 
+.ansible/      .bash_profile  dellog.sh      .pki/          .viminfo
+.bash_history  .bashrc        init.sh        .ssh/          
+.bash_logout   .cshrc         .lesshst       .tcshrc        
+> kill -15 ${flume_log_pid}
+>         fi
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $flume_log_pid
+
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     done
+-bash: syntax error near unexpected token `done'
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     exit
+logout
+Last login: Thu May  3 14:56:35 2018 from 10.10.50.118
+        log_name=adxresponse5.conf
+        echo $log_name
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        if [ -n "${flume_log_pid}" ];then
+		kill -15 ${flume_log_pid}
+        fi
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        echo $flume_log_pid
+    done
+    exit
+]0;root@10-9-17-152:~[?1034h[root@10-9-17-152 ~]#         log_name=adxresponse5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $log_name
+adxresponse5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         if [ -n "${flume_log_pid}" ];then
+> 
+.ansible/      .bash_profile  dellog.sh      .pki/          .viminfo
+.bash_history  .bashrc        init.sh        .ssh/          
+.bash_logout   .cshrc         .lesshst       .tcshrc        
+> kill -15 ${flume_log_pid}
+>         fi
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $flume_log_pid
+
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     done
+-bash: syntax error near unexpected token `done'
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     exit
+logout
+Last login: Thu May  3 14:56:35 2018 from 10.10.50.118
+        log_name=adxerror5.conf
+        echo $log_name
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        if [ -n "${flume_log_pid}" ];then
+		kill -15 ${flume_log_pid}
+        fi
+        flume_log_pid=`ps -ef |grep flume| grep conf/${log_name} | grep -v grep  |awk -F' ' '{print \$2}'`
+        echo $flume_log_pid
+    done
+    exit
+]0;root@10-9-17-152:~[?1034h[root@10-9-17-152 ~]#         log_name=adxerror5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $log_name
+adxerror5.conf
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         if [ -n "${flume_log_pid}" ];then
+> 
+.ansible/      .bash_profile  dellog.sh      .pki/          .viminfo
+.bash_history  .bashrc        init.sh        .ssh/          
+.bash_logout   .cshrc         .lesshst       .tcshrc        
+> kill -15 ${flume_log_pid}
+>         fi
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         flume_log_pid=`ps -ef |grep flume| grep conf/${log _name} | grep -v grep  |awk -F' ' '{print \$2}'`
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#         echo $flume_log_pid
+
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     done
+-bash: syntax error near unexpected token `done'
+]0;root@10-9-17-152:~[root@10-9-17-152 ~]#     exit
+logout
+----------2------10.9.17.215-------------

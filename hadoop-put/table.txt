@@ -1,0 +1,5 @@
+/user/hive/warehouse/adverdb.db/log_adver_app_show_server
+/user/hive/warehouse/adverdb.db/log_app_client_request_show
+/user/hive/warehouse/adverdb.db/log_miniwap_h5_dsp_show_inview
+/user/hive/warehouse/adverdb.db/log_adver_adunion_request
+
